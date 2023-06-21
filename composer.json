@@ -1,5 +1,5 @@
 {
-    "name": "drupal/formtips",
+    "name": "ubc-web-services/d10compat_formtips",
     "type": "drupal-module",
     "description": "Form Tips module unclutters forms by turning form descriptions into hover-activated tooltips.",
     "license": "GPL-2.0-or-later",
