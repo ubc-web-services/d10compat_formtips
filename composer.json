@@ -1,0 +1,12 @@
+{
+    "name": "drupal/formtips",
+    "type": "drupal-module",
+    "description": "Form Tips module unclutters forms by turning form descriptions into hover-activated tooltips.",
+    "license": "GPL-2.0-or-later",
+    "homepage": "https://www.drupal.org/project/formtips",
+    "minimum-stability": "dev",
+    "require": {
+      "drupal/core": "^8.8 || ^9 || ^10"
+    }
+  }
+  
