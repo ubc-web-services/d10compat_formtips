@@ -1,4 +1,8 @@
 # Form Tips
+This repo has the Drupal rector patch applied to make it Drupal 10 compatible.
+https://www.drupal.org/files/issues/2022-12-30/Drupal-10-compatibility-fix-3330266-2.patch
+
+# Form Tips
 
 Form Tips module uses JS to move form descriptions to tooltips.
 
